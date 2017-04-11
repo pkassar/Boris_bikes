@@ -1,3 +1,4 @@
+require './lib/bike.rb'
 require './lib/dockingstation.rb'
 
 describe Bike do
